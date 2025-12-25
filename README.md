@@ -30,7 +30,7 @@ A Python-based project that connects to the [**Spotify Web API**](https://develo
 📌 Table of Contents
 --------------------
 
-- [Introduction](#)
+- [Introduction](#introduction)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
