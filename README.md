@@ -16,7 +16,7 @@
 </p>
 
 
-A Python-based project that connects to the [**Spotify Web API**](https://developer.spotify.com/), stores your recently played tracks in a MySQL database, and generates insightful listening analytics such as:
+Spotify Insights is a Python-based tool that fetches your recently played Spotify tracks, stores them in a local MySQL database, and generates personalized "Wrapped-style" analytics. Discover your top songs, favorite artists, and even your "musical age" based on your listening habits.
 
 *   Your **musical age**
     
