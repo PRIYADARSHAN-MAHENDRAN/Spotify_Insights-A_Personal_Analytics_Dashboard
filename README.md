@@ -11,8 +11,9 @@
     <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white" />
   </a>
   <a href="https://github.com/PRIYADARSHAN-MAHENDRAN/Spotify_Insights-A_Personal_Analytics_Dashboard/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/PRIYADARSHAN-MAHENDRAN/Spotify_Insights-A_Personal_Analytics_Dashboard" />
-  </a>
+    <img src="https://img.shields.io/github/license/PRIYADARSHAN-MAHENDRAN/Spotify_Insights-A_Personal_Analytics_Dashboard?cacheSeconds=300" />
+</a>
+
 </p>
 
 
