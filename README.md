@@ -1,19 +1,14 @@
 🎧 Spotify Insights: A Personal Analytics Dashboard
 ===================================================
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" />
-  </a>
+  <a href="https://www.python.org/" >
+    <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" /></a>
   <a href="https://developer.spotify.com/">
-    <img src="https://img.shields.io/badge/Spotify-Web%20API-1DB954?logo=spotify&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Spotify-Web%20API-1DB954?logo=spotify&logoColor=white" /></a>
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white" /></a>
   <a href="https://github.com/PRIYADARSHAN-MAHENDRAN/Spotify_Insights-A_Personal_Analytics_Dashboard/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/PRIYADARSHAN-MAHENDRAN/Spotify_Insights-A_Personal_Analytics_Dashboard?cacheSeconds=300" />
-</a>
-
+    <img src="https://img.shields.io/github/license/PRIYADARSHAN-MAHENDRAN/Spotify_Insights-A_Personal_Analytics_Dashboard?cacheSeconds=300" /></a>
 </p>
 
 
