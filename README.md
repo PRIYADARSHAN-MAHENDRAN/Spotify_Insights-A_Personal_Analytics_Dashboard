@@ -44,14 +44,14 @@ A Python-based project that connects to the [**Spotify Web API**](https://develo
 - [License](#license)
     
 
-📖 Introduction
+Introduction
 ---------------
 
 This project uses the [**Spotipy**](https://github.com/spotipy-dev/spotipy) library to fetch your Spotify listening history and persist it in a MySQL database. Over time, the collected data is analyzed to generate personalized insights about your listening habits.
 
 It is designed to be run locally and assumes you have an existing Spotify Developer application and a MySQL instance running.
 
-✨ Features
+Features
 ----------
 
 *   OAuth-based Spotify authentication
@@ -75,7 +75,7 @@ It is designed to be run locally and assumes you have an existing Spotify Develo
     *   Top 5 most popular tracks
         
 
-📁 Project Structure
+Project Structure
 --------------------
 
 ```
@@ -89,7 +89,7 @@ It is designed to be run locally and assumes you have an existing Spotify Develo
 └── wrapped.py          # CLI analytics & reporting
 ```
 
-🛠 Installation
+Installation
 ---------------
 
 ### 1\. Clone the repository
@@ -111,7 +111,7 @@ python -m venv venv  source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install spotipy mysql-connector-python
 ```
 
-⚙️ Configuration
+Configuration
 ----------------
 
 ### Spotify Credentials
@@ -138,7 +138,7 @@ db_config = {
   }
 ```
 
-🗄 Database Schema
+Database Schema
 ------------------
 
 You must create the following table before running the project:
@@ -159,7 +159,7 @@ CREATE TABLE recently_played_tracks (
 );
 ```
 
-▶️ Usage
+Usage
 --------
 
 ### 1\. Update the Database with Spotify Data
@@ -194,7 +194,7 @@ Interactive CLI walkthrough that shows:
 *   Most Popular Tracks
     
 
-📊 Examples
+Examples
 -----------
 
 **Musical Age Output**
@@ -209,7 +209,7 @@ Interactive CLI walkthrough that shows:
 
 ```   Drake - 34 plays   ```
 
-🐛 Troubleshooting
+Troubleshooting
 ------------------
 
 **No recently played tracks found**
@@ -231,7 +231,7 @@ Interactive CLI walkthrough that shows:
 *   Ensure redirect URI matches Spotify Developer Dashboard exactly
     
 
-📦 Dependencies
+Dependencies
 ---------------
 
 *   Python 3.9+
@@ -244,7 +244,7 @@ Interactive CLI walkthrough that shows:
     
 *   Spotify Developer Account
     
-🤝 Contributing
+Contributing
 ---------------
 Contributions are welcome and appreciated! If you would like to contribute to Spotify\_Insights – A Personal Analytics Dashboard, please follow these steps:
 
@@ -258,7 +258,7 @@ Contributions are welcome and appreciated! If you would like to contribute to Sp
     
 5.  Submit a pull request with a clear and detailed description of your changes.
 
-📄 License
+License
 ----------
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/PRIYADARSHAN-MAHENDRAN/Spotify_Insights-A_Personal_Analytics_Dashboard/blob/main/LICENSE) file for details.
